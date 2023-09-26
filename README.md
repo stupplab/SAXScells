@@ -15,8 +15,10 @@ This is a repository hosting the CAD files for the liquid sandwich cells used at
 - Pipettes (30-40uL), air-displacement or positive displacement
 - Wide-bore pipette tips or positive displacement pistons
 
-The patterns are cut on:
+The patterns are laser cut on:
 - tape: 3M 9474LE 300LSE
 - transparency: 1 mm CLAREX PMMA sheet
 - strip / plate: 1.5-2 mm CLAREX PMMA sheet (this depends on path length requirements)
+
+SOP.txt shows procedures for filling 2mm "strip" cells.
 
