@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109.200mm" height="25.400mm" viewBox="-111.599991 3.300003 109.199997 25.400002">
+    <circle transform="matrix(1,0,0,-1,-107.800003,26.200001)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.899997" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-82.400002,26.200001)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.899997" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-57,26.200001)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.900001" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-31.6,26.200001)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.9" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-6.19998,26.200001)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.9" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-107.800003,5.8)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.899997" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-82.400002,5.8)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.899997" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-57,5.8)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.900001" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-31.6,5.8)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.9" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-6.19998,5.8)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="0.9" cx="0" cy="0"/>
+    <rect transform="matrix(-1,0,0,1,-57,16)" style="stroke:#000000;stroke-width:0.05mm;fill:none" x="-52.000004" y="-7" width="104.000008" height="14.000001"/>
+    <path transform="matrix(1,0,0,-1,-202.399994,143.300003)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M90.800003,114.599998L90.800003,140L200,140L200,114.599998L90.800003,114.599998z"/>
+</svg>
