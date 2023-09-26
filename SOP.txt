@@ -1,0 +1,29 @@
+SAXS/WAXS strip cell SOP
+
+Label all strips and work area with ongoing strip pressing.
+
+Preparing strips with adhesive on both sides
+1.	Place strip guide in laminar flow hood.
+2.	Retrieve strip materials from supply labeled with the date for the upcoming beamtime. Each strip consists of a cut acrylic plate, two strips of double-sided adhesive, and two pieces of glass.
+3.	Remove the protective layer from one side of the acrylic strip and place it on the guide.
+4.	Remove the cover from one side of the adhesive and apply to the unprotected side of the strip. 
+5.	Repeat steps 3 and 4 on the other side of the acrylic strip.
+6.	Repeat steps 3 – 5 for strips as needed.
+7.	Press the strips with one of the flat stones for at least 1 hour. Multiple strips can be pressed with the same stone.
+
+Applying glass to one side
+8.	Tape clean texwipe to laminar flow hood.
+9.	Retrieve glass labeled with the date for the upcoming beamtime.
+10.	Isolate a single piece of glass using an X-ACTO knife. The plastic cover should not come off any of the other pieces of glass.
+11.	Expose the adhesive on one side of a prepared strip. The notch will be cell #15, so consider selecting a side uniformly.
+12.	Place a piece of glass on the exposed adhesive, covering all cells.
+Note: from here on, the glass should not touch any surfaces other than texwipes.
+13.	Apply light pressure using your hands followed by at least 1 hour of pressure using a flat stone.
+14.	Repeat steps 10 – 13 for strips as needed. Multiple strips can be pressed with the same stone.
+
+Loading strip cells
+15.	Expose the adhesive on a strip with one side of glass.
+16.	Fill each cell using 38 µL, a slightly higher volume may be necessary if the sample is especially viscous. Leave cell #15 empty – the notch indicates cell #15. Use regular tips for samples with low viscosity, wide bore tips for samples with high viscosity. Only push to the first stop on the pipette. Do not get sample/buffer on the adhesive. If this happens, attempt to remove the bead of liquid using the pipette, but there might be issues with sealing.
+17.	Place the other side of glass over the filled cells and immediately apply pressure with your hands to prevent liquid moving between the glass and adhesive through capillary action.
+18.	Apply at least 1 hour of pressure using a flat stone.
+19.	Repeat steps 15 – 18 for strips as needed. Multiple strips can be pressed with the same stone.
