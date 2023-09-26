@@ -9,6 +9,11 @@ This is a repository hosting the CAD files for the liquid sandwich cells used at
 - Ultrathin glass, 10mm x 100mm for strips and 100mm x 100mm for plates
   - 30um for minimum background (only available in 100mm x 100mm)
   - 50 or 100um for typical samples
+- Marble stone for pressing
+- Texwipe TX3211
+- Scotch tape
+- Pipettes (30-40uL), air-displacement or positive displacement
+- Wide-bore pipette tips or positive displacement pistons
 
 The patterns are cut on:
 - tape: 3M 9474LE 300LSE
