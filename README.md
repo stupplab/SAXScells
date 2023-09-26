@@ -20,5 +20,5 @@ The patterns are laser cut on:
 - transparency: 1 mm CLAREX PMMA sheet
 - strip / plate: 1.5-2 mm CLAREX PMMA sheet (this depends on path length requirements)
 
-SOP.txt shows procedures for filling 2mm "strip" cells.
+SOP.txt shows the procedure for filling 2mm "strip" cells.
 
