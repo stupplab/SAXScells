@@ -21,3 +21,5 @@ for (mycellrow=asc("A");mycellrow<=asc("I");mycellrow++) {
 }
 ```
 ![image](https://github.com/stupplab/SAXScells/assets/71526800/c04644ff-61be-4dfa-8d48-25306b6848d0)
+
+![image](https://github.com/stupplab/SAXScells/assets/71526800/13084d11-f45e-4208-ab2b-2745c7333f68)
