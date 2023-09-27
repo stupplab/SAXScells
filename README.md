@@ -6,9 +6,9 @@ This is a repository hosting the CAD files for the liquid sandwich cells used at
 
 - 3M 9474LE 300LSE double-adhesive sheet (available at Amazon)
 - CLAREX PMMA sheet (Precision cast acrylics, available from Astra Products)
-- Ultrathin glass, 10mm x 100mm for strips and 100mm x 100mm for plates
-  - 30um for minimum background (only available in 100mm x 100mm)
-  - 50 or 100um for typical samples
+- Alkaline-free ultrathin glass, 10mm x 100mm for strips and 100mm x 100mm for plates
+  - 30um for minimum background (only available in 100mm x 100mm): we have tested Schott AF32eco for this.
+  - 50 or 100um for typical samples: we have tested Schott AF32eco, but others have used Corninbg Willow glass. We will be testing Nippon Electric Glass G-leaf soon.
 - Marble stone for pressing
 - Texwipe TX3211
 - Scotch tape
