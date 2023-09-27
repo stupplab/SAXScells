@@ -8,7 +8,7 @@ This is a repository hosting the CAD files for the liquid sandwich cells used at
 - CLAREX PMMA sheet (Precision cast acrylics, available from Astra Products)
 - Alkaline-free ultrathin glass, 10mm x 100mm for strips and 100mm x 100mm for plates
   - 30um for minimum background (only available in 100mm x 100mm): we have tested Schott AF32eco for this.
-  - 50 or 100um for typical samples: we have tested Schott AF32eco, but others have used Corninbg Willow glass. We will be testing Nippon Electric Glass G-leaf soon.
+  - 50 or 100um for typical samples: we have tested Schott AF32eco, but others have used Corning Willow glass. We will be testing Nippon Electric Glass G-leaf soon.
 - Marble stone for pressing: we used the cheese slicer board from Amazon without handle/wire.
 - Texwipe TX3211
 - Scotch tape
