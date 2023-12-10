@@ -2,3 +2,8 @@ This design is compatible with the automatic sample exchanger robot at NSLS-II L
 ```
 mc_measure_holder('samples-proc.xlsx','<strip name>',exp=<exposure time>, scan=True,check_sname=True,cell_format='flat15')
 ```
+2023/12: For 2023-3 cycle, we tested the mesh scan with robotic arm sample exchange:
+```
+mc_auto_measure_samples('samples-proc.xlsx',configName='a1',cell_form='flat15',scan='mesh',xrange=1,offset_y=0.5) #configName is defined as a set of strips with their holder positions in the auto-exchanger
+```
+throughput ~ 11.5 min / 15 samples.
