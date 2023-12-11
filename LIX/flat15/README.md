@@ -7,3 +7,10 @@ mc_measure_holder('samples-proc.xlsx','<strip name>',exp=<exposure time>, scan=T
 mc_auto_measure_samples('samples-proc.xlsx',configName='a1',cell_form='flat15',scan='mesh',xrange=1,offset_y=0.5) #configName is defined as a set of strips with their holder positions in the auto-exchanger
 ```
 throughput ~ 11.5 min / 15 samples.
+
+**File description:**
+
+- slot_guide.stl: 3D model of a guide to place the double adhesive tape to the strip. We find it not very necessary (alignment by eye is usually sufficient), but if you are having difficulty applying the tape straight, this may help.
+- strip_brookhaven.svg: 2D vector file for the main compartment for flat15 cells. This should be laser-cut out of cast acrylic plates with known thickness.
+- tape_brookhaven.svg: 2D vector file for the double adhesive tape for flat15 cells. This should be laser-cut applied to both sides of the main compartment strip.
+- transparency_brookhaven.svg: 2D vector file for spacing between the aluminum arm and the sample strips to prevent the glass from contacting the aluminum. This should be laser-cut out of 1mm thick cast acrylic plate (or anything thicker than tape + glass, and is uniform in thickness).
