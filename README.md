@@ -10,6 +10,7 @@ This is a repository hosting the CAD files for the liquid sandwich cells used by
   - 30um for minimum background (only available in 100mm x 100mm): we have tested Schott AF32eco for this.
   - 50 or 100um for typical samples: we have tested Schott AF32eco, but others have used Corning Willow glass. We will be testing Nippon Electric Glass G-leaf soon.
 - Marble stone for pressing: we used the cheese slicer board from Amazon without handle/wire.
+https://www.amazon.com/Fox-Run-Marble-Cheese-Replacement/dp/B0000VZA2W
 - Texwipe TX3211
 - Scotch tape
 - Pipettes (30-40uL), air-displacement or positive displacement
