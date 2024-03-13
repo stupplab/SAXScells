@@ -9,6 +9,7 @@ This is a repository hosting the CAD files for the liquid sandwich cells used by
 - Alkaline-free ultrathin glass, 10mm x 100mm for strips and 100mm x 100mm for plates
   - 30um for minimum background (only available in 100mm x 100mm): we have tested Schott AF32eco for this.
   - 50 or 100um for typical samples: we have tested Schott AF32eco, but others have used Corning Willow glass. We will be testing Nippon Electric Glass G-leaf soon.
+    - Update 2024/1: Nippon Electric Glass G-leaf shows similar positional reproducibility for both thickness (WAXS intensity) and roughness (SAXS parasitic scattering). 
 - Marble stone for pressing: we used the cheese slicer board from Amazon without handle/wire.
 https://www.amazon.com/Fox-Run-Marble-Cheese-Replacement/dp/B0000VZA2W
 - Texwipe TX3211
