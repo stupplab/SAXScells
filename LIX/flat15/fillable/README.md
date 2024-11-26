@@ -1,4 +1,8 @@
-Fillable cells: users bring solutions in microcentrifuge tubes, along with assembled cell strips. At the beamline, the following workflow is executed:
+Fillable cells: users bring solutions in microcentrifuge tubes, along with assembled cell strips. 
+tape_brookhaven_fillable.svg: the red lines need to be cut at lower power to cut only two layers out of 3 (smooth protective layer + adhesive layer). 
+Assembly: remove the smooth protective layer and attach the tape to the acrylic strip on both sides. Removal of the other protective layer should remove the tab-like adhesives above the u-shaped wells.
+
+At the beamline, the following workflow is executed:
 - Mount the empty strips on aluminum brackets, with 1mm spacer bracket in-between.
 - Place the empty strips on the robot parking area, ~8 at a time.
 - Measure empty cells.
