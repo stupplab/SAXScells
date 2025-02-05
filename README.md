@@ -19,7 +19,7 @@ https://www.amazon.com/Fox-Run-Marble-Cheese-Replacement/dp/B0000VZA2W
 
 The patterns are laser cut on:
 - tape: 3M 9474LE 300LSE
-- transparency: 1 mm CLAREX PMMA sheet
+- spacer: 1 mm CLAREX PMMA sheet
 - strip / plate: 1.5-2 mm CLAREX PMMA sheet (this depends on path length requirements)
 
 SOP.txt shows the procedure for filling 2mm "strip" cells.
