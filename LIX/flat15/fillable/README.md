@@ -11,4 +11,4 @@ At the beamline, the following workflow is executed:
 - Fill the strips with samples, then place back on the robot parking area
 - Measure filled cells, and perform empty subtraction.
 - Subtract corresponding buffer.
-A typical strip measurement with 24 frames, 1s / frame exposure takes about 11-12 minutes. This means the sample throughput is ~1 min / cell. The downside is the halved throughput and possible contamination if cells are not kept clean.
+A typical strip measurement with 24 frames, 1s / frame exposure takes about 11-12 minutes. This means the sample throughput is ~1 min / cell. The downside is the halved throughput and possible contamination if cells are not kept clean. Sample evaporation can be a concern if you are running samples with robots.
