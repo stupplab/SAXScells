@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.000mm" height="11.000mm" viewBox="0 0 102 11">
+
+<!-- tape edge -->
+    <path transform="matrix(1,0,0,1,0,0)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M0,0
+	L0,11
+	L102,11
+	L102,0
+	L0,0
+	z"/>
+
+<!-- 15 sample holes, 1.1x strip hole size-->
+    <path transform="matrix(1.1,0,0,1.1,5.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,12,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,18.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,25,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,31.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,38,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,44.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,51,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,57.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,64,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,70.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,77,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,83.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,90,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+    <path transform="matrix(1.1,0,0,1.1,96.5,5.5)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="
+	M-1.5,-3
+	L1.5,-3
+	L1.5,1.5
+	A1.5,1.5 0 0,1 -1.5,1.5
+
+	z"/>
+
+<!-- lines to remove adhesives when peeled - should cut 2 layers, protective layer + adhesive layer. Recommended to add lead-in and lead-out to avoid residual adhesives -->
+    <path transform="matrix(1,0,0,1,5.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,5.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,12,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,12,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,18.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,18.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,25,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,25,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,31.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,31.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,38,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,38,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,44.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,44.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,51,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,51,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,57.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,57.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,64,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,64,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,70.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,70.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,77,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,77,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,83.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,83.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,90,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,90,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+    <path transform="matrix(1,0,0,1,96.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M-1.25,-6v2.7"/>
+    <path transform="matrix(1,0,0,1,96.5,5.5)" style="stroke:#ff0000;stroke-width:0.05mm;fill:none" d="M1.25,-6v2.7"/>
+
+</svg>
