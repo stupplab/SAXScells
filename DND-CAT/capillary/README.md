@@ -1,5 +1,5 @@
 # Capillary sorting tip
-To fit Charles Supper capillaries into the DND-CAT multicapillary holders, do the following:
+To fit Charles Supper 1.5 mm capillaries into the DND-CAT multicapillary heater holders, do the following:
 ## Things to prepare
 - Fisherbrand SureOne micropipette tips, 200uL universal fit, 02-707-422
 - Ruler
