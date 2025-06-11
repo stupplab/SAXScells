@@ -20,3 +20,5 @@ for (mycellrow=asc("A");mycellrow<=asc("I");mycellrow++) {
  }
 }
 ```
+
+Update 2025/6/10: DND-CAT staff and we will be working on stage config that allows 4 flat15 strips to be loaded at once. 
