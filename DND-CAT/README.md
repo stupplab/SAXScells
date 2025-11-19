@@ -1,3 +1,5 @@
+**DND-CAT now has a 4 x flat15 cell adapter! Please use flat15 under LIX folder instead. The info below is obsolete.**
+
 This plate / strip setup is compatible with the sample environment at APS 5-ID-D DND-CAT beamline. The sample plate / 9-strip holder is secured on the beamline using the 96x2 well plate holder. Use `w150_stage` to initialize the plate setup, and `w135_stage` to initialize the 9-strip holder.
 
 ```
@@ -20,5 +22,3 @@ for (mycellrow=asc("A");mycellrow<=asc("I");mycellrow++) {
  }
 }
 ```
-
-Update 2025/6/10: DND-CAT staff and we will be working on stage config that allows 4 flat15 strips to be loaded at once. 
